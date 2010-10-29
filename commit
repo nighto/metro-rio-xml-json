@@ -2,7 +2,7 @@
 
 # Could have .gitignore'd it, but I think it's a good idea to expose how the JSON is generated.
 
-cat metro-rio.xml | tr -d '\t' | tr -d '\n' | xsltproc JsonML.xslt - > metro-rio.js
+cat metro-rio.xml | tr -d '\t' | tr -d '\n' | xsltproc json/JsonML.xslt - > metro-rio.js
 
 # Pick the file, remove tabs and newline chars, run it into XSLT and save it as JS. Simple like that.
 # Then, the usual.
