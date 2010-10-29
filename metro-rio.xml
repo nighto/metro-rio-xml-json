@@ -1,22 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <stations>
-	<station code="SPN" name="Saens Peña"/>
-	<station code="SFX" name="São Francisco Xavier"/>
-	<station code="AFP" name="Afonso Pena"/>
-	<station code="ESA" name="Estácio"/>
-	<station code="POZ" name="Praça Onze"/>
-	<station code="CTR" name="Central"/>
-	<station code="PVG" name="Presidente Vargas"/>
-	<station code="URG" name="Uruguaiana"/>
-	<station code="CRC" name="Carioca"/>
-	<station code="CNL" name="Cinelândia"/>
-	<station code="GLR" name="Glória"/>
-	<station code="CTT" name="Catete"/>
-	<station code="LMC" name="Largo do Machado"/>
-	<station code="FLA" name="Flamengo"/>
-	<station code="BTF" name="Botafogo"/>
-	<station code="CAV" name="Cardeal Arcoverde"/>
-	<station code="SCP" name="Siqueira Campos"/>
-	<station code="CTG" name="Cantagalo"/>
-	<station code="IGO" name="Ipanema/General Osório"/>
+	<station>
+		<code>SPN</code>
+		<name>Saens Peña</name>
+	</station>
+	<station>
+		<code>SFX</code>
+		</name>São Francisco Xavier</name>
+	</station>
+	<station>
+		<code>AFP</code>
+		<name>Afonso Pena</name>
+	</station>
+	<station>
+		<code>ESA</code>
+		<name>Estácio</name>
+	</station>
+	<station>
+		<code>POZ</code>
+		<name>Praça Onze</name>
+	</station>
+	<station>
+		<code>CTR</code>
+		<name>Central</name>
+	</station>
+	<station>
+		<code>PVG</code>
+		<name>Presidente Vargas</name>
+	</station>
+	<station>
+		<code>URG</code>
+		<name>Uruguaiana</name>
+	</station>
+	<station>
+		<code>CRC</code>
+		<name>Carioca</name>
+	</station>
+	<station>
+		<code>CNL</code>
+		<name>Cinelândia</name>
+	</station>
+	<station>
+		<code>GLR</code>
+		<name>Glória</name>
+	</station>
+	<station>
+		<code>CTT</code>
+		<name>Catete</name>
+	</station>
+	<station>
+		<code>LMC</code>
+		<name>Largo do Machado</name>
+	</station>
+	<station>
+		<code>FLA</code>
+		<name>Flamengo</name>
+	</station>
+	<station>
+		<code>BTF</code>
+		<name>Botafogo</name>
+	</station>
+	<station>
+		<code>CAV</code>
+		<name>Cardeal Arcoverde</name>
+	</station>
+	<station>
+		<code>SCP</code>
+		<name>Siqueira Campos</name>
+	</station>
+	<station>
+		<code>CTG</code>
+		<name>Cantagalo</name>
+	</station>
+	<station>
+		<code>IGO</code>
+		<name>Ipanema/General Osório</name>
+	</station>
 </stations>
