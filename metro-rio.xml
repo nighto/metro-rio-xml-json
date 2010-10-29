@@ -1,3 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
 <stations>
-	<station code="CTT" name="Catete" />
+	<station code="SPN" name="Saens Peña"/>
+	<station code="SFX" name="São Francisco Xavier"/>
+	<station code="AFP" name="Afonso Pena"/>
+	<station code="ESA" name="Estácio"/>
+	<station code="POZ" name="Praça Onze"/>
+	<station code="CTR" name="Central"/>
+	<station code="PVG" name="Presidente Vargas"/>
+	<station code="URG" name="Uruguaiana"/>
+	<station code="CRC" name="Carioca"/>
+	<station code="CNL" name="Cinelândia"/>
+	<station code="GLR" name="Glória"/>
+	<station code="CTT" name="Catete"/>
+	<station code="LMC" name="Largo do Machado"/>
+	<station code="FLA" name="Flamengo"/>
+	<station code="BTF" name="Botafogo"/>
+	<station code="CAV" name="Cardeal Arcoverde"/>
+	<station code="SCP" name="Siqueira Campos"/>
+	<station code="CTG" name="Cantagalo"/>
+	<station code="IGO" name="Ipanema/General Osório"/>
 </stations>
