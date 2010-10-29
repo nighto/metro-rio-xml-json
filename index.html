@@ -15,10 +15,13 @@ Nowadays the XML schema is as simple as that:
 
 &lt;stations&gt;
     &lt;station&gt;
-    	&lt;code&gt;ABC&lt;/code&gt;
-    	&lt;name&gt;ABCD Station&lt;/name&gt;
-    	&lt;old_name&gt;Ya Olde ABC Station&lt;/old_name&gt;
-    	&lt;start_date&gt;YYYY-MM-DD&lt;/start_date&gt;
+    	&lt;code&gt;<strong>three-letter string</strong>&lt;/code&gt;
+    	&lt;name&gt;<strong>string</strong>&lt;/name&gt;
+    	&lt;old_name&gt;<strong>string</strong> <em>(optional)</em>&lt;/old_name&gt;
+    	&lt;start_date&gt;<strong>YYYY-MM-DD string</strong>&lt;/start_date&gt;
+		&lt;wheelchair&gt;<strong>yes|no string</strong>&lt;/wheelchair&gt;
+		&lt;bicycle&gt;<strong>yes|no string</strong>&lt;/bicycle&gt;
+		&lt;bicycle_capacity&gt;<strong>int</strong> <em>(optional)</em>&lt;/bicycle_capacity&gt;
     &lt;/station&gt;
 &lt;/stations&gt;
 
