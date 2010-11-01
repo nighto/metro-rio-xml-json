@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <stations>
+	<!-- Line 1 -->
 	<station>
 		<code>SPN</code>
 		<name>Saens Peña</name>
 		<start_date>1982-05-27</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Carlos Vasconcelos</name>
+			</entrance>
+			<entrance>
+				<name>Conde de Bonfim</name>
+			</entrance>
+			<entrance>
+				<name>General Roca</name>
+			</entrance>
+			<entrance>
+				<name>Heitor Beltrão</name>
+			</entrance>
+			<entrance>
+				<name>Major Ávila</name>
+			</entrance>
+			<entrance>
+				<name>Pereira dos Santos</name>
+			</entrance>
+			<entrance>
+				<name>Praça Saens Peña</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>SFX</code>
@@ -13,6 +37,11 @@
 		<start_date>1982-05-27</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Heitor Beltrão</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>AFP</code>
@@ -20,6 +49,14 @@
 		<start_date>1982-05-27</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Doutor Satamini</name>
+			</entrance>
+			<entrance>
+				<name>Praça</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>ESA</code>
@@ -35,12 +72,31 @@
 		<start_date>1979-03-05</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Laura de Araújo</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>CTR</code>
 		<name>Central</name>
 		<bicycle>no</bicycle>
 		<wheelchair>yes</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Central do Brasil</name>
+			</entrance>
+			<entrance>
+				<name>Ministério do Exército</name>
+			</entrance>
+			<entrance>
+				<name>Praça da República</name>
+			</entrance>
+			<entrance>
+				<name>RFFSA</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>PVG</code>
@@ -48,6 +104,17 @@
 		<start_date>1979-03-05</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Alfândega</name>
+			</entrance>
+			<entrance>
+				<name>Marechal Floriano</name>
+			</entrance>
+			<entrance>
+				<name>Palácio Itamaraty</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>URG</code>
@@ -55,6 +122,20 @@
 		<start_date>1980-03-17</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Alfândega</name>
+			</entrance>
+			<entrance>
+				<name>Presidente Vargas</name>
+			</entrance>
+			<entrance>
+				<name>Senhor dos Passos</name>
+			</entrance>
+			<entrance>
+				<name>Uruguaiana</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>CRC</code>
@@ -62,6 +143,17 @@
 		<start_date>1981-06-14</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>yes</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Avenida Chile</name>
+			</entrance>
+			<entrance>
+				<name>Convento</name>
+			</entrance>
+			<entrance>
+				<name>Rio Branco</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>CNL</code>
@@ -69,6 +161,23 @@
 		<start_date>1979-03-05</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Passeio</name>
+			</entrance>
+			<entrance>
+				<name>Pedro Lessa</name>
+			</entrance>
+			<entrance>
+				<name>Rio Branco (Cinelândia)</name>
+			</entrance>
+			<entrance>
+				<name>Rio Branco (Theatro Municipal)</name>
+			</entrance>
+			<entrance>
+				<name>Santa Luzia</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>GLR</code>
@@ -76,6 +185,17 @@
 		<start_date>1979-03-05</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Catete</name>
+			</entrance>
+			<entrance>
+				<name>Glória</name>
+			</entrance>
+			<entrance>
+				<name>Outeiro</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>CTT</code>
@@ -83,6 +203,22 @@
 		<start_date>1981-09-18</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Catete</name>
+			</entrance>
+			<entrance>
+				<name>Catete (apenas saída)</name>
+				<exit_only>yes</exit_only>
+			</entrance>
+			<entrance>
+				<name>Palácio</name>
+			</entrance>
+			<entrance>
+				<name>Silveira Martins</name>
+				<exit_only>yes</exit_only>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>LMC</code>
@@ -90,6 +226,14 @@
 		<start_date>1981-12-23</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Catete</name>
+			</entrance>
+			<entrance>
+				<name>Largo do Machado</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>FLA</code>
@@ -98,6 +242,14 @@
 		<start_date>1981-09-18</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Marquês de Abrantes</name>
+			</entrance>
+			<entrance>
+				<name>Praia de Botafogo</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>BTF</code>
@@ -105,6 +257,28 @@
 		<start_date>1981-09-18</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>yes</wheelchair>
+		<lat>-22.95052</lat>
+		<lon>-43.184574</lon>
+		<entrances>
+			<entrance>
+				<name>Mena Barreto</name>
+			</entrance>
+			<entrance>
+				<name>Muniz Barreto / Botafogo Praia Shopping</name>
+			</entrance>
+			<entrance>
+				<name>São Clemente / Humaitá</name>
+			</entrance>
+			<entrance>
+				<name>São Clemente / Praia</name>
+			</entrance>
+			<entrance>
+				<name>Voluntários</name>
+			</entrance>
+			<entrance>
+				<name>Voluntários / Nelson Mandela</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>CAV</code>
@@ -112,6 +286,14 @@
 		<start_date>1998-07-02</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Barata Ribeiro</name>
+			</entrance>
+			<entrance>
+				<name>Tonelero</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>SCP</code>
@@ -119,6 +301,14 @@
 		<start_date>2003-03-01</start_date>
 		<bicycle>no</bicycle>
 		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Figueiredo Magalhães</name>
+			</entrance>
+			<entrance>
+				<name>Siqueira Campos</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>CTG</code>
@@ -134,6 +324,182 @@
 		<start_date>2009-12-21</start_date>
 		<bicycle>yes</bicycle>
 		<bicycle_capacity>30</bicycle_capacity>
+		<wheelchair>yes</wheelchair>
+	</station>
+
+	<!-- Line 2 -->
+	<station>
+		<code>PVN</code>
+		<name>Pavuna</name>
+		<start_date>1998-08-31</start_date>
+		<bicycle>yes</bicycle>
+		<bicycle_capacity>100</bicycle_capacity>
+		<wheelchair>yes</wheelchair>
+	</station>
+	<station>
+		<code>ERP</code>
+		<name>Engenheiro Rubens Paiva</name>
+		<start_date>1998-09-24</start_date>
+		<bicycle>no</bicycle>
+		<wheelchair>no</wheelchair>
+	</station>
+	<station>
+		<code>AFB</code>
+		<name>Acari/Fazenda Botafogo</name>
+		<start_date>1998-09-24</start_date>
+		<bicycle>no</bicycle>
+		<wheelchair>no</wheelchair>
+	</station>
+	<station>
+		<code>CNT</code>
+		<name>Coelho Neto</name>
+		<start_date>1998-09-29</start_date>
+		<bicycle>no</bicycle>
+		<wheelchair>yes</wheelchair>
+	</station>
+	<station>
+		<code>CLG</code>
+		<name>Colégio</name>
+		<start_date>1998-09-29</start_date>
+		<bicycle>yes</bicycle>
+		<bicycle_capacity>20</bicycle_capacity>
+		<wheelchair>yes</wheelchair>
+	</station>
+	<station>
+		<code>IRJ</code>
+		<name>Irajá</name>
+		<start_date>1998-08-31</start_date>
+		<bicycle>yes</bicycle>
+		<bicycle_capacity>16</bicycle_capacity>
+		<wheelchair>no</wheelchair>
+	</station>
+	<station>
+		<code>VCV</code>
+		<name>Vicente de Carvalho</name>
+		<start_date></start_date>
+		<bicycle>no</bicycle>
+		<wheelchair>no</wheelchair>
+	</station>
+	<station>
+		<code>TCL</code>
+		<name>Thomaz Coelho</name>
+		<start_date>1996-09-23</start_date>
+		<bicycle>no</bicycle>
+		<wheelchair>no</wheelchair>
+	</station>
+	<station>
+		<code>ERN</code>
+		<name>Engenho da Rainha</name>
+		<start_date>1991-03-13</start_date>
+		<bicycle>no</bicycle>
+		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Carlos Penna</name>
+			</entrance>
+			<entrance>
+				<name>Conjunto dos Músicos</name>
+			</entrance>
+		</entrances>
+	</station>
+	<station>
+		<code>INH</code>
+		<name>Inhaúma</name>
+		<start_date>1983-03-12</start_date>
+		<bicycle>yes</bicycle>
+		<bicycle_capacity>10</bicycle_capacity>
+		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Cemitério de Inhaúma</name>
+			</entrance>
+			<entrance>
+				<name>Padre Januário</name>
+			</entrance>
+		</entrances>
+	</station>
+	<station>
+		<code>DCT</code>
+		<name>Nova América/Del Castilho</name>
+		<old_name>Del Castilho</old_name>
+		<start_date>1983-03-12</start_date>
+		<bicycle>no</bicycle>
+		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Av. Pastor Martin Luther King Jr.</name>
+			</entrance>
+			<entrance>
+				<name>Nova América</name>
+			</entrance>
+		</entrances>
+	</station>
+	<station>
+		<code>MGR</code>
+		<name>Maria da Graça</name>
+		<start_date>1983-03-12</start_date>
+		<bicycle>no</bicycle>
+		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Av. Dom Helder Câmara (ex-Av. Suburbana)</name>
+			</entrance>
+			<entrance>
+				<name>Domingos Magalhães</name>
+			</entrance>
+		</entrances>
+	</station>
+	<station>
+		<code>TRG</code>
+		<name>Triagem</name>
+		<start_date>1988-06-30</start_date>
+		<bicycle>yes</bicycle>
+		<bicycle_capacity>10</bicycle_capacity>
+		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Bérgamo</name>
+			</entrance>
+			<entrance>
+				<name>Rede</name>
+			</entrance>
+		</entrances>
+	</station>
+	<station>
+		<code>MRC</code>
+		<name>Maracanã</name>
+		<start_date>1981-11-19</start_date>
+		<bicycle>no</bicycle>
+		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Radial Oeste</name>
+			</entrance>
+		</entrances>
+	</station>
+	<station>
+		<code>SCR</code>
+		<name>São Cristóvão</name>
+		<start_date>1981-11-19</start_date>
+		<bicycle>no</bicycle>
+		<wheelchair>no</wheelchair>
+		<entrances>
+			<entrance>
+				<name>Radial Oeste</name>
+			</entrance>
+			<entrance>
+				<name>RFFSA</name>
+			</entrance>
+			<entrance>
+				<name>Senador Furtado</name>
+			</entrance>
+		</entrances>
+	</station>
+	<station>
+		<code>CNV</code>
+		<name>Cidade Nova</name>
+		<start_date>2010-11-01</start_date>
+		<bicycle>no</bicycle>
 		<wheelchair>yes</wheelchair>
 	</station>
 </stations>

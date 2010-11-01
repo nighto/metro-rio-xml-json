@@ -18,10 +18,16 @@ Nowadays the XML schema is as simple as that:
     	&lt;code&gt;<strong>three-letter string</strong>&lt;/code&gt;
     	&lt;name&gt;<strong>string</strong>&lt;/name&gt;
     	&lt;old_name&gt;<strong>string</strong> <em>(optional)</em>&lt;/old_name&gt;
-    	&lt;start_date&gt;<strong>YYYY-MM-DD string</strong>&lt;/start_date&gt;
+    	&lt;start_date&gt;<strong>YYYY-MM-DD string</strong> <em>(optional)</em>&lt;/start_date&gt;
 		&lt;wheelchair&gt;<strong>yes|no string</strong>&lt;/wheelchair&gt;
 		&lt;bicycle&gt;<strong>yes|no string</strong>&lt;/bicycle&gt;
 		&lt;bicycle_capacity&gt;<strong>int</strong> <em>(optional)</em>&lt;/bicycle_capacity&gt;
+		&lt;entrances&gt; (optional)
+			&lt;entrance&gt;
+				&lt;name&gt;<strong>string</strong> <em>(optional)</em>&lt;/name&gt;
+				&lt;exit_only&gt;<strong>yes|no string</strong> <em>(optional)</em>&lt;/exit_only&gt;
+			&lt;/entrance&gt;
+		&lt;/entrances&gt;
     &lt;/station&gt;
 &lt;/stations&gt;
 
