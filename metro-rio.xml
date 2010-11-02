@@ -65,6 +65,14 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>10</bicycle_parking_capacity>
 		<wheelchair_access>yes</wheelchair_access>
+		<entrances>
+			<entrance>
+				<name>Joaquim Palhares</name>
+			</entrance>
+			<entrance>
+				<name>Machado Coelho</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>POZ</code>
@@ -335,6 +343,18 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>100</bicycle_parking_capacity>
 		<wheelchair_access>yes</wheelchair_access>
+		<entrances>
+			<entrance>
+				<name>Av. Martin Luther King Jr.</name>
+			</entrance>
+			<entrance>
+				<name>Av. Martin Luther King Jr.</name>
+			</entrance>
+			<entrance>
+				<name>Rua Mercúrio</name>
+				<exit_only>yes</exit_only>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>ERP</code>
@@ -342,6 +362,14 @@
 		<start_date>1998-09-24</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<entrances>
+			<entrance>
+				<name>Rua São Mamedi</name>
+			</entrance>
+			<entrance>
+				<name>Rua Wagner</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>AFB</code>
@@ -349,6 +377,14 @@
 		<start_date>1998-09-24</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<entrances>
+			<entrance>
+				<name>Fábrica de Esperança</name>
+			</entrance>
+			<entrance>
+				<name>Rua Ender</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>CNT</code>
@@ -356,6 +392,14 @@
 		<start_date>1998-09-29</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>yes</wheelchair_access>
+		<entrances>
+			<entrance>
+				<name>Av. Brasil / CEASA</name>
+			</entrance>
+			<entrance>
+				<name>Praça Coelho Neto</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>CLG</code>
@@ -372,6 +416,14 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>16</bicycle_parking_capacity>
 		<wheelchair_access>no</wheelchair_access>
+		<entrances>
+			<entrance>
+				<name>Martin Luther King Jr.</name>
+			</entrance>
+			<entrance>
+				<name>Monsenhor Félix</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>VCV</code>
@@ -379,6 +431,14 @@
 		<start_date></start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<entrances>
+			<entrance>
+				<name>Estrada Vicente de Carvalho</name>
+			</entrance>
+			<entrance>
+				<name>Largo Vicente de Carvalho</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>TCL</code>
@@ -386,6 +446,14 @@
 		<start_date>1996-09-23</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<entrances>
+			<entrance>
+				<name>Juramento</name>
+			</entrance>
+			<entrance>
+				<name>Rua Maracá</name>
+			</entrance>
+		</entrances>
 	</station>
 	<station>
 		<code>ERN</code>
