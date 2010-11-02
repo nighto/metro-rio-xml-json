@@ -7,6 +7,8 @@
 		<start_date>1982-05-27</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.92467</lat>
+		<lon>-43.23262</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Carlos Vasconcelos</entrance_name>
@@ -37,6 +39,8 @@
 		<start_date>1982-05-27</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.92035</lat>
+		<lon>-43.22332</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Heitor Beltrão</entrance_name>
@@ -49,6 +53,8 @@
 		<start_date>1982-05-27</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.91778</lat>
+		<lon>-43.21812</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Doutor Satamini</entrance_name>
@@ -65,6 +71,8 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>10</bicycle_parking_capacity>
 		<wheelchair_access>yes</wheelchair_access>
+		<lat>-22.91354</lat>
+		<lon>-43.20653</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Joaquim Palhares</entrance_name>
@@ -80,6 +88,8 @@
 		<start_date>1979-03-05</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.90877</lat>
+		<lon>-43.20057</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Laura de Araújo</entrance_name>
@@ -91,6 +101,8 @@
 		<name>Central</name>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>yes</wheelchair_access>
+		<lat>-22.9046</lat>
+		<lon>-43.19102</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Central do Brasil</entrance_name>
@@ -112,6 +124,8 @@
 		<start_date>1979-03-05</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.90267</lat>
+		<lon>-43.18486</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Alfândega</entrance_name>
@@ -130,6 +144,8 @@
 		<start_date>1980-03-17</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.90293</lat>
+		<lon>-43.18164</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Alfândega</entrance_name>
@@ -151,6 +167,8 @@
 		<start_date>1981-06-14</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>yes</wheelchair_access>
+		<lat>-22.90753</lat>
+		<lon>-43.17798</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Avenida Chile</entrance_name>
@@ -169,6 +187,8 @@
 		<start_date>1979-03-05</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.91093</lat>
+		<lon>-43.17565</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Passeio</entrance_name>
@@ -193,6 +213,8 @@
 		<start_date>1979-03-05</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.92066</lat>
+		<lon>-43.1767</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Catete</entrance_name>
@@ -211,6 +233,8 @@
 		<start_date>1981-09-18</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.92576</lat>
+		<lon>-43.17664</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Catete</entrance_name>
@@ -234,6 +258,8 @@
 		<start_date>1981-12-23</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.93086</lat>
+		<lon>-43.17812</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Catete</entrance_name>
@@ -250,6 +276,8 @@
 		<start_date>1981-09-18</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.93818</lat>
+		<lon>-43.17824</lat>
 		<entrances>
 			<entrance>
 				<entrance_name>Marquês de Abrantes</entrance_name>
@@ -265,8 +293,8 @@
 		<start_date>1981-09-18</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>yes</wheelchair_access>
-		<lat>-22.95052</lat>
-		<lon>-43.184574</lon>
+		<lat>-22.95034</lat>
+		<lon>-43.1842</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Mena Barreto</entrance_name>
@@ -294,6 +322,8 @@
 		<start_date>1998-07-02</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.96354</lat>
+		<lon>-43.18177</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Barata Ribeiro</entrance_name>
@@ -309,6 +339,8 @@
 		<start_date>2003-03-01</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.96717</lat>
+		<lon>-43.18737</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Figueiredo Magalhães</entrance_name>
@@ -325,6 +357,8 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>10</bicycle_parking_capacity>
 		<wheelchair_access>yes</wheelchair_access>
+		<lat>-22.97658</lat>
+		<lon>-43.19421</lon>
 	</station>
 	<station>
 		<code>IGO</code>
@@ -333,6 +367,8 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>30</bicycle_parking_capacity>
 		<wheelchair_access>yes</wheelchair_access>
+		<lat>-22.98303</lat>
+		<lon>-43.19626</lon>
 	</station>
 
 	<!-- Line 2 -->
@@ -343,6 +379,8 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>100</bicycle_parking_capacity>
 		<wheelchair_access>yes</wheelchair_access>
+		<lat>-22.80668</lat>
+		<lon>-43.36487</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Av. Martin Luther King Jr.</entrance_name>
@@ -362,6 +400,8 @@
 		<start_date>1998-09-24</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.81632</lat>
+		<lon>-43.35847</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Rua São Mamedi</entrance_name>
@@ -377,6 +417,8 @@
 		<start_date>1998-09-24</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.82502</lat>
+		<lon>-43.34932</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Fábrica de Esperança</entrance_name>
@@ -392,6 +434,8 @@
 		<start_date>1998-09-29</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>yes</wheelchair_access>
+		<lat>-22.83189</lat>
+		<lon>-43.34288</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Av. Brasil / CEASA</entrance_name>
@@ -408,6 +452,8 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>20</bicycle_parking_capacity>
 		<wheelchair_access>yes</wheelchair_access>
+		<lat>-22.84275</lat>
+		<lon>-43.33381</lon>
 	</station>
 	<station>
 		<code>IRJ</code>
@@ -416,6 +462,8 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>16</bicycle_parking_capacity>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.84802</lat>
+		<lon>-43.32327</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Martin Luther King Jr.</entrance_name>
@@ -431,6 +479,8 @@
 		<start_date></start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.85398</lat>
+		<lon>-43.3132</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Estrada Vicente de Carvalho</entrance_name>
@@ -446,6 +496,8 @@
 		<start_date>1996-09-23</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.86242</lat>
+		<lon>-43.30677</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Juramento</entrance_name>
@@ -461,6 +513,8 @@
 		<start_date>1991-03-13</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.86792</lat>
+		<lon>-43.29738</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Carlos Penna</entrance_name>
@@ -477,6 +531,8 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>10</bicycle_parking_capacity>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.87458</lat>
+		<lon>-43.28369</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Cemitério de Inhaúma</entrance_name>
@@ -493,6 +549,8 @@
 		<start_date>1983-03-12</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.87909</lat>
+		<lon>-43.27236</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Av. Pastor Martin Luther King Jr.</entrance_name>
@@ -508,6 +566,8 @@
 		<start_date>1983-03-12</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.88154</lat>
+		<lon>-43.2603</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Av. Dom Helder Câmara (ex-Av. Suburbana)</entrance_name>
@@ -524,6 +584,8 @@
 		<bicycle_parking>yes</bicycle_parking>
 		<bicycle_parking_capacity>10</bicycle_parking_capacity>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.89687</lat>
+		<lon>-43.2445</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Bérgamo</entrance_name>
@@ -539,6 +601,8 @@
 		<start_date>1981-11-19</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.90973</lat>
+		<lon>-43.23393</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Radial Oeste</entrance_name>
@@ -551,6 +615,8 @@
 		<start_date>1981-11-19</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>no</wheelchair_access>
+		<lat>-22.90955</lat>
+		<lon>-43.22281</lon>
 		<entrances>
 			<entrance>
 				<entrance_name>Radial Oeste</entrance_name>
@@ -569,5 +635,7 @@
 		<start_date>2010-11-01</start_date>
 		<bicycle_parking>no</bicycle_parking>
 		<wheelchair_access>yes</wheelchair_access>
+		<lat>-22.90934</lat>
+		<lon>-43.20696</lon>
 	</station>
 </stations>
