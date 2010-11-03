@@ -639,3 +639,15 @@
 		<lon>-43.20696</lon>
 	</station>
 </stations>
+<lines>
+	<line>
+		<code>L1</code>
+		<name>Linha 1: Saens Peña-Ipanema/General Osório</name>
+		<sequence>SPN-SFX-AFP-ESA-POZ-CTR-PVG-URG-CRC-CNL-GLR-CTT-LMC-FLA-BTF-CAV-SCP-CTG-IGO</sequence>
+	</line>
+	<line>
+		<code>L2</code>
+		<name>Linha 2: Pavuna-Botafogo</name>
+		<sequence>PVN-ERP-AFB-CNT-CLG-IRJ-VCV-TCL-ERN-INH-DCT-MGR-TRG-MRC-SCR-CNV-CTR-PVG-URG-CRC-CNL-GLR-CTT-LMC-FLA-BTF</sequence>
+	</line>
+</lines>
