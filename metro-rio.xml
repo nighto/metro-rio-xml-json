@@ -13,24 +13,31 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Carlos Vasconcelos</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Conde de Bonfim</entrance_name>
+					<working_hours>Mo-Fr 05:00-23:00; Sa 05:00-18:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>General Roca</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Heitor Beltrão</entrance_name>
+					<working_hours>Mo-Fr 05:00-23:00; Sa 05:00-18:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Major Ávila</entrance_name>
+					<working_hours>Mo-Sa 05:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Pereira dos Santos</entrance_name>
+					<working_hours>Mo-Fr 05:00-23:00; Sa 05:00-18:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Praça Saens Peña</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -45,6 +52,7 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Heitor Beltrão</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -59,9 +67,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Doutor Satamini</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Praça</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -77,9 +87,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Joaquim Palhares</entrance_name>
+					<working_hours>Mo-Fr 05:00-00:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Machado Coelho</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -94,6 +106,7 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Laura de Araújo</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -107,15 +120,19 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Central do Brasil</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Ministério do Exército</entrance_name>
+					<working_hours>Mo-Fr 05:00-21:00; Sa 05:00-14:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Praça da República</entrance_name>
+					<working_hours>Mo-Fr 05:00-21:00; Sa 05:00-14:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>RFFSA</entrance_name>
+					<working_hours>Mo-Fr 07:00-20:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -130,12 +147,15 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Alfândega</entrance_name>
+					<working_hours>Mo-Fr 05:00-00:00; Sa 05:00-18:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Marechal Floriano</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Palácio Itamaraty</entrance_name>
+					<working_hours>Mo-Fr 05:00-21:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -150,15 +170,19 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Alfândega</entrance_name>
+					<working_hours>Mo-Fr 05:00-20:00; Sa 05:00-14:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Presidente Vargas</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Senhor dos Passos</entrance_name>
+					<working_hours>Mo-Fr 05:00-21:00; Sa 05:00-18:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Uruguaiana</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -173,12 +197,15 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Avenida Chile</entrance_name>
+					<working_hours>Mo-Fr 05:00-22:00; Sa 05:00-18:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Convento</entrance_name>
+					<working_hours>Mo-Fr 05:00-22:00; Sa 05:00-14:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Rio Branco</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -193,18 +220,23 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Passeio</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Pedro Lessa</entrance_name>
+					<working_hours>Mo-Fr 05:00-21:00; Sa 05:00-14:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Rio Branco (Cinelândia)</entrance_name>
+					<working_hours>Mo-Fr 05:00-21:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Rio Branco (Theatro Municipal)</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Santa Luzia</entrance_name>
+					<working_hours>Mo-Fr 05:00-00:00; Sa 05:00-14:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -219,12 +251,15 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Catete</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Glória</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Outeiro</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -239,17 +274,21 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Catete</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Catete (apenas saída)</entrance_name>
 					<exit_only>yes</exit_only>
+					<working_hours>Mo-Fr 05:00-19:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Palácio</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Silveira Martins</entrance_name>
 					<exit_only>yes</exit_only>
+					<working_hours>Mo-Sa 05:00-19:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -264,9 +303,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Catete</entrance_name>
+					<working_hours>Mo-Fr 05:00-21:00; Sa 05:00-14:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Largo do Machado</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -282,9 +323,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Marquês de Abrantes</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Praia de Botafogo</entrance_name>
+					<working_hours>Mo-Fr 05:00-19:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -299,21 +342,27 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Mena Barreto</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Muniz Barreto / Botafogo Praia Shopping</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>São Clemente / Humaitá</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>São Clemente / Praia</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Voluntários</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Voluntários / Nelson Mandela</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -328,9 +377,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Barata Ribeiro</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Tonelero</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -345,9 +396,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Figueiredo Magalhães</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Siqueira Campos</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -360,6 +413,16 @@
 			<wheelchair_access>yes</wheelchair_access>
 			<lat>-22.97658</lat>
 			<lon>-43.19421</lon>
+			<entrances>
+				<entrance>
+					<name>Miguel Lemos</name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+				</entrance>
+				<entrance>
+					<name>Xavier da Silveira</name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+				</entrance>
+			</entrances>
 		</station>
 		<station>
 			<code>IGO</code>
@@ -370,6 +433,20 @@
 			<wheelchair_access>yes</wheelchair_access>
 			<lat>-22.98303</lat>
 			<lon>-43.19626</lon>
+			<entrances>
+				<entrance>
+					<name>Jangadeiros</name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+				</entrance>
+				<entrance>
+					<name>Sá Ferreira</name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+				</entrance>
+				<entrance>
+					<name>Teixeira de Melo</name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+				</entrance>
+			</entrances>
 		</station>
 
 		<!-- Line 2 -->
@@ -385,13 +462,16 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Av. Martin Luther King Jr.</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Av. Martin Luther King Jr.</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Rua Mercúrio</entrance_name>
 					<exit_only>yes</exit_only>
+					<working_hours>Mo-Sa 06:00-13:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -406,9 +486,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Rua São Mamedi</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Rua Wagner</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -423,9 +505,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Fábrica de Esperança</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Rua Ender</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -440,9 +524,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Av. Brasil / CEASA</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
-					<entrance_name>Praça Coelho Neto</entrance_name>
+					<entrance_name>Praça Coelho Neto (Virgínia Cidade)</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -455,6 +541,16 @@
 			<wheelchair_access>yes</wheelchair_access>
 			<lat>-22.84275</lat>
 			<lon>-43.33381</lon>
+			<entrances>
+				<entrance>
+					<name>Estrada do Barro Vermelho</name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+				</entrance>
+				<entrance>
+					<name>Estrada do Colégio</name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+				</entrance>
+			</entrances>
 		</station>
 		<station>
 			<code>IRJ</code>
@@ -468,9 +564,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Martin Luther King Jr.</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Monsenhor Félix</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -485,9 +583,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Estrada Vicente de Carvalho</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Largo Vicente de Carvalho</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -502,9 +602,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Juramento</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Rua Maracá</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -519,9 +621,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Carlos Penna</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Conjunto dos Músicos</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -537,9 +641,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Cemitério de Inhaúma</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Padre Januário</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -555,9 +661,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Av. Pastor Martin Luther King Jr.</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Nova América</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -572,9 +680,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Av. Dom Helder Câmara (ex-Av. Suburbana)</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Domingos Magalhães</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -590,9 +700,11 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Bérgamo</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Rede</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -607,6 +719,7 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Radial Oeste</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
@@ -621,12 +734,15 @@
 			<entrances>
 				<entrance>
 					<entrance_name>Radial Oeste</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>RFFSA</entrance_name>
+					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
 				</entrance>
 				<entrance>
 					<entrance_name>Senador Furtado</entrance_name>
+					<working_hours>Mo-Fr 06:00-19:00</working_hours>
 				</entrance>
 			</entrances>
 		</station>
