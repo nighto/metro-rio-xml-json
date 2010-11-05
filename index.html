@@ -13,30 +13,32 @@ machine readable format, on <a href="http://nighto.github.com/metro-rio-xml-json
 
 Nowadays the XML schema is as simple as that:
 
-&lt;stations&gt;
-    &lt;station&gt;
-    	&lt;code&gt;<strong>three-letter string</strong>&lt;/code&gt;
-    	&lt;name&gt;<strong>string</strong>&lt;/name&gt;
-    	&lt;old_name&gt;<strong>string</strong> <em>(optional)</em>&lt;/old_name&gt;
-    	&lt;start_date&gt;<strong>YYYY-MM-DD string</strong> <em>(optional)</em>&lt;/start_date&gt;
-		&lt;wheelchair_access&gt;<strong>yes|no string</strong>&lt;/wheelchair_access&gt;
-		&lt;bicycle_parking&gt;<strong>yes|no string</strong>&lt;/bicycle_parking&gt;
-		&lt;bicycle_parking_capacity&gt;<strong>int</strong> <em>(optional)</em>&lt;/bicycle_parking_capacity&gt;
-		&lt;entrances&gt; (optional)
-			&lt;entrance&gt;
-				&lt;entrance_name&gt;<strong>string</strong> <em>(optional)</em>&lt;/entrance_name&gt;
-				&lt;exit_only&gt;<strong>yes|no string</strong> <em>(optional)</em>&lt;/exit_only&gt;
-			&lt;/entrance&gt;
-		&lt;/entrances&gt;
-    &lt;/station&gt;
-&lt;/stations&gt;
-&lt;lines&gt;
-	&lt;line&gt;
-		&lt;code&gt;<strong>string</strong>&lt;/code&gt;
-		&lt;name&gt;<strong>string</strong>&lt;/name&gt;
-		&lt;sequence&gt;<strong>string</strong> <em>(dash separated)</em>&lt;/sequence&gt;
-	&lt;/line&gt;	
-&lt;/lines&gt;
+&lt;metro_rio&gt;
+	&lt;stations&gt;
+		&lt;station&gt;
+			&lt;code&gt;<strong>three-letter string</strong>&lt;/code&gt;
+			&lt;name&gt;<strong>string</strong>&lt;/name&gt;
+			&lt;old_name&gt;<strong>string</strong> <em>(optional)</em>&lt;/old_name&gt;
+			&lt;start_date&gt;<strong>YYYY-MM-DD string</strong> <em>(optional)</em>&lt;/start_date&gt;
+			&lt;wheelchair_access&gt;<strong>yes|no string</strong>&lt;/wheelchair_access&gt;
+			&lt;bicycle_parking&gt;<strong>yes|no string</strong>&lt;/bicycle_parking&gt;
+			&lt;bicycle_parking_capacity&gt;<strong>int</strong> <em>(optional)</em>&lt;/bicycle_parking_capacity&gt;
+			&lt;entrances&gt; (optional)
+				&lt;entrance&gt;
+					&lt;entrance_name&gt;<strong>string</strong> <em>(optional)</em>&lt;/entrance_name&gt;
+					&lt;exit_only&gt;<strong>yes|no string</strong> <em>(optional)</em>&lt;/exit_only&gt;
+				&lt;/entrance&gt;
+			&lt;/entrances&gt;
+		&lt;/station&gt;
+	&lt;/stations&gt;
+	&lt;lines&gt;
+		&lt;line&gt;
+			&lt;code&gt;<strong>string</strong>&lt;/code&gt;
+			&lt;name&gt;<strong>string</strong>&lt;/name&gt;
+			&lt;sequence&gt;<strong>string</strong> <em>(dash separated)</em>&lt;/sequence&gt;
+		&lt;/line&gt;	
+	&lt;/lines&gt;
+&lt;/metro_rio&gt;
 
 but the idea is to be very specific, including: ways, lines, accessibility
 (elevators and escalators), stores, subway entrances etc.
