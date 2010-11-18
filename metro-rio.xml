@@ -53,6 +53,7 @@
 				<entrance>
 					<entrance_name>Heitor Beltrão</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<escalator>no</escalator>
 				</entrance>
 			</entrances>
 		</station>
@@ -68,10 +69,12 @@
 				<entrance>
 					<entrance_name>Doutor Satamini</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00</working_hours>
+					<escalator>no</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Praça</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<escalator>no</escalator>
 				</entrance>
 			</entrances>
 		</station>
@@ -88,10 +91,14 @@
 				<entrance>
 					<entrance_name>Joaquim Palhares</entrance_name>
 					<working_hours>Mo-Fr 05:00-00:00</working_hours>
+					<entrance_lat>-22.913843</entrance_lat>
+					<entrance_lon>-43.206898</entrance_lon>
 				</entrance>
 				<entrance>
 					<entrance_name>Machado Coelho</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.913213</entrance_lat>
+					<entrance_lon>-43.206214</entrance_lon>
 				</entrance>
 			</entrances>
 		</station>
@@ -107,6 +114,8 @@
 				<entrance>
 					<entrance_name>Laura de Araújo</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.909969</entrance_lat>
+					<entrance_lon>-43.200452</entrance_lon>
 				</entrance>
 			</entrances>
 		</station>
@@ -121,18 +130,30 @@
 				<entrance>
 					<entrance_name>Central do Brasil</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.904143</entrance_lat>
+					<entrance_lon>-43.191338</entrance_lon>
+					<escalator>both</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Ministério do Exército</entrance_name>
 					<working_hours>Mo-Fr 05:00-21:00; Sa 05:00-14:00</working_hours>
+					<entrance_lat>-22.903876</entrance_lat>
+					<entrance_lon>-43.190273</entrance_lon>
+					<escalator>both</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Praça da República</entrance_name>
 					<working_hours>Mo-Fr 05:00-21:00; Sa 05:00-14:00</working_hours>
+					<entrance_lat>-22.905131</entrance_lat>
+					<entrance_lon>-43.189777</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>RFFSA</entrance_name>
 					<working_hours>Mo-Fr 07:00-20:00</working_hours>
+					<entrance_lat>-22.904613</entrance_lat>
+					<entrance_lon>-43.191859</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 			</entrances>
 		</station>
@@ -148,14 +169,24 @@
 				<entrance>
 					<entrance_name>Alfândega</entrance_name>
 					<working_hours>Mo-Fr 05:00-00:00; Sa 05:00-18:00</working_hours>
+					<entrance_lat>-22.903602</entrance_lat>
+					<entrance_lon>-43.185816</entrance_lon>
+					<escalator>no</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Marechal Floriano</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.903004</entrance_lat>
+					<entrance_lon>-43.18585</entrance_lon>
+					<escalator>no</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Palácio Itamaraty</entrance_name>
 					<working_hours>Mo-Fr 05:00-21:00</working_hours>
+					<entrance_lat>-22.903345</entrance_lat>
+					<entrance_lon>-43.18669</entrance_lon>
+					<escalator>no</escalator>
+					<closed>yes</closed>
 				</entrance>
 			</entrances>
 		</station>
@@ -171,18 +202,30 @@
 				<entrance>
 					<entrance_name>Alfândega</entrance_name>
 					<working_hours>Mo-Fr 05:00-20:00; Sa 05:00-14:00</working_hours>
+					<entrance_lat>-22.903404</entrance_lat>
+					<entrance_lon>-43.182629</entrance_lon>
+					<closed>yes</closed>
 				</entrance>
 				<entrance>
 					<entrance_name>Presidente Vargas</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00</working_hours>
+					<entrance_lat>-22.902503</entrance_lat>
+					<entrance_lon>-43.18169</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Senhor dos Passos</entrance_name>
 					<working_hours>Mo-Fr 05:00-21:00; Sa 05:00-18:00</working_hours>
+					<entrance_lat>-22.90332</entrance_lat>
+					<entrance_lon>-43.181521</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Uruguaiana</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.902846</entrance_lat>
+					<entrance_lon>-43.181245</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 			</entrances>
 		</station>
@@ -198,14 +241,23 @@
 				<entrance>
 					<entrance_name>Avenida Chile</entrance_name>
 					<working_hours>Mo-Fr 05:00-22:00; Sa 05:00-18:00</working_hours>
+					<entrance_lat>-22.908193</entrance_lat>
+					<entrance_lon>-43.178555</entrance_lon>
+					<escalator>none</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Convento</entrance_name>
 					<working_hours>Mo-Fr 05:00-22:00; Sa 05:00-14:00</working_hours>
+					<entrance_lat>-22.907078</entrance_lat>
+					<entrance_lon>-43.178523</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Rio Branco</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.907355</entrance_lat>
+					<entrance_lon>-43.177619</entrance_lon>
+					<escalator>both</escalator>
 				</entrance>
 			</entrances>
 		</station>
@@ -221,22 +273,37 @@
 				<entrance>
 					<entrance_name>Passeio</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00</working_hours>
+					<entrance_lat>-22.911733</entrance_lat>
+					<entrance_lon>-43.175755</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Pedro Lessa</entrance_name>
 					<working_hours>Mo-Fr 05:00-21:00; Sa 05:00-14:00</working_hours>
+					<entrance_lat>-22.910201</entrance_lat>
+					<entrance_lon>-43.175545</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Rio Branco (Cinelândia)</entrance_name>
 					<working_hours>Mo-Fr 05:00-21:00</working_hours>
+					<entrance_lat>-22.910532</entrance_lat>
+					<entrance_lon>-43.175752</entrance_lon>
+					<escalator>none</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Rio Branco (Theatro Municipal)</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.910186</entrance_lat>
+					<entrance_lon>-43.175891</entrance_lon>
+					<escalator>none</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Santa Luzia</entrance_name>
 					<working_hours>Mo-Fr 05:00-00:00; Sa 05:00-14:00</working_hours>
+					<entrance_lat>-22.911523</entrance_lat>
+					<entrance_lon>-43.175132</entrance_lon>
+					<escalator>none</escalator>
 				</entrance>
 			</entrances>
 		</station>
@@ -252,14 +319,23 @@
 				<entrance>
 					<entrance_name>Catete</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.920669</entrance_lat>
+					<entrance_lon>-43.176846</entrance_lon>
+					<escalator>no</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Glória</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.920348</entrance_lat>
+					<entrance_lon>-43.176924</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Outeiro</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00</working_hours>
+					<entrance_lat>-22.920782</entrance_lat>
+					<entrance_lon>-43.176079</entrance_lon>
+					<escalator>no</escalator>
 				</entrance>
 			</entrances>
 		</station>
@@ -275,20 +351,32 @@
 				<entrance>
 					<entrance_name>Catete</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.926217</entrance_lat>
+					<entrance_lon>-43.176691</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Catete (apenas saída)</entrance_name>
 					<exit_only>yes</exit_only>
 					<working_hours>Mo-Fr 05:00-19:00</working_hours>
+					<entrance_lat>-22.925182</entrance_lat>
+					<entrance_lon>-43.176717</entrance_lon>
+					<escalator>no</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Palácio</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.926447</entrance_lat>
+					<entrance_lon>-43.176457</entrance_lon>
+					<escalator>no</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Silveira Martins</entrance_name>
 					<exit_only>yes</exit_only>
 					<working_hours>Mo-Sa 05:00-19:00</working_hours>
+					<entrance_lat>-22.925447</entrance_lat>
+					<entrance_lon>-43.176339</entrance_lon>
+					<escalator>no</escalator>
 				</entrance>
 			</entrances>
 		</station>
@@ -304,10 +392,16 @@
 				<entrance>
 					<entrance_name>Catete</entrance_name>
 					<working_hours>Mo-Fr 05:00-21:00; Sa 05:00-14:00</working_hours>
+					<entrance_lat>-22.931309</entrance_lat>
+					<entrance_lon>-43.177898</entrance_lon>
+					<escalator>no</escalator>
 				</entrance>
 				<entrance>
 					<entrance_name>Largo do Machado</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.930918</entrance_lat>
+					<entrance_lon>-43.178284</entrance_lon>
+					<escalator>up</escalator>
 				</entrance>
 			</entrances>
 		</station>
@@ -324,10 +418,14 @@
 				<entrance>
 					<entrance_name>Marquês de Abrantes</entrance_name>
 					<working_hours>Mo-Sa 05:00-00:00; Su 07:00-23:00</working_hours>
+					<entrance_lat>-22.937252</entrance_lat>
+					<entrance_lon>-43.178244</entrance_lon>
 				</entrance>
 				<entrance>
 					<entrance_name>Praia de Botafogo</entrance_name>
 					<working_hours>Mo-Fr 05:00-19:00</working_hours>
+					<entrance_lat>-22.938351</entrance_lat>
+					<entrance_lon>-43.178627</entrance_lon>
 				</entrance>
 			</entrances>
 		</station>
